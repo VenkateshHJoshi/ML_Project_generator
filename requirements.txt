@@ -1,1 +1,4 @@
 groq
+matplotlib
+seaborn
+scikit-learn
